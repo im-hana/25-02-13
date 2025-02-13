@@ -1,0 +1,24 @@
+* {
+  font-family: "42dot Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+table {
+  width: 400px;
+  height: 250px;
+}
+
+table,
+tr,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+body {
+  text-align: center;
+}
