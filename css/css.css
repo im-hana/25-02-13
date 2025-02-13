@@ -19,6 +19,8 @@ td {
   margin: auto;
 }
 
-body {
+ul {
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
